@@ -68,8 +68,6 @@ This system is MVP-ready and ideal for:
 
 ### 🔹 Screenshot – Agent Console
 
-![screenshot](./images/screenshot-dashboard.png)
-
 ---
 
 ### 🔹 Demo (Executing in Command Line)
