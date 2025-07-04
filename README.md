@@ -74,8 +74,7 @@ This system is MVP-ready and ideal for:
 
 ### 🔹 Demo Preview (Video)
 
-🎥 [Click here to watch the full demo](https://bravog.com/assets/agentic-demo.mp4)  
-*(Hosted externally via BRAVOG)*
+[📺 Assistir no YouTube](https://www.youtube.com/watch?v=a3d0UAYmIqA&t=4s)
 
 ---
 
