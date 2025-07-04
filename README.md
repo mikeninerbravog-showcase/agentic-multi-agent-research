@@ -79,7 +79,7 @@ This system is MVP-ready and ideal for:
 
 ### 🔹 Final Result
 
-![PDF] (https://github.com/mikeninerbravog-showcase/agentic-multi-agent-research/blob/main/final_response.pdf)
+![PDF](https://github.com/mikeninerbravog-showcase/agentic-multi-agent-research/blob/main/final_response.pdf)
 ---
 
 ## 🧩 Customization & Integration
