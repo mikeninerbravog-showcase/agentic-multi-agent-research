@@ -60,9 +60,9 @@ This system is MVP-ready and ideal for:
 
 ## 📸 Showcase
 
-### 🔹 Live Workflow Diagram
+### 🔹 Workflow Diagram
 
-![diagram](./images/agentic-diagram.png)
+![diagram](assets/multi_agent_researcher_compact.svg)
 
 ---
 
