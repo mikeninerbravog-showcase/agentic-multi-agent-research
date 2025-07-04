@@ -74,7 +74,7 @@ This system is MVP-ready and ideal for:
 
 ### 🔹 Demo Preview (Video)
 
-
+![Demo](https://github.com/mikeninerbravog-showcase/agentic-multi-agent-research/raw/main/assets/21-51.gif)
 
 ---
 
