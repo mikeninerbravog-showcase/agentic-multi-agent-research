@@ -76,6 +76,15 @@ This system is MVP-ready and ideal for:
 
 [📺 Assistir no YouTube](https://www.youtube.com/watch?v=a3d0UAYmIqA&t=4s)
 
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/a3d0UAYmIqA?start=4"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+
 ---
 
 ## 🧩 Customization & Integration
