@@ -4,8 +4,8 @@
 By *Mike Bravog – Full-Stack AI Developer & Systems Architect*
 
 
+![Agentic Multi-Agent Research](https://github.com/mikeninerbravog-showcase/agentic-multi-agent-research/raw/main/assets/image_original.png)
 
-([[./images/screenshot-dashboard.png](https://github.com/mikeninerbravog-showcase/agentic-multi-agent-research/blob/main/assets/image_original.png)](https://github.com/mikeninerbravog-showcase/agentic-multi-agent-research/blob/main/assets/image_original.png))
 
 ---
 
