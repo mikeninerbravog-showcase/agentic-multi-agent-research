@@ -74,7 +74,6 @@ This system is MVP-ready and ideal for:
 
 ### 🔹 Demo Preview (Video)
 
-🎥 [Click here to view the video demo](assets/Peek-2025-06-22--21-51.mp4)
 
 
 ---
