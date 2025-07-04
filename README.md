@@ -72,9 +72,14 @@ This system is MVP-ready and ideal for:
 
 ---
 
-### 🔹 Demo Preview (Video)
+### 🔹 Demo (Executing in Command Line)
 
 ![Demo](https://github.com/mikeninerbravog-showcase/agentic-multi-agent-research/raw/main/assets/21-51.gif)
+
+
+### 🔹 Final Result
+
+![PDF](final_response.pdf)
 
 ---
 
