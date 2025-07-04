@@ -3,6 +3,10 @@
 **Production-Ready MVP**  
 By *Mike Bravog – Full-Stack AI Developer & Systems Architect*
 
+
+
+![screenshot]([./images/screenshot-dashboard.png](https://github.com/mikeninerbravog-showcase/agentic-multi-agent-research/blob/main/assets/image_original.png))
+
 ---
 
 ## 🔍 Overview
